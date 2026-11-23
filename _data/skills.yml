@@ -2,42 +2,42 @@
   subtitle: Languages
   description: | # this will include new lines to allow paragraphs
     From most to least proficient:
-    - PHP 8+
+    - Java w/ Spring &amp; Spring Boot
     - MySQL/SQL
     - Bash/Zsh
-    - Java <small>(incl. Android)</small>
+    - Android Java &amp; Kotlin
+    - PHP 8+
+    - Terraform
+    - Python
     - Swift
     - ASP .NET
     - C#
-    - Python
     - C/C++
 
 - layout: item
   subtitle: Web development
   description: | # this will include new lines to allow paragraphs
-    - JavaScript, including the following:
-      - vanilla
-      - AlpineJS
-      - jQuery
+    - API development, testing and usage
+    - JavaScript <small>(incl. vanilla, AlpineJS, jQuery)</small>
+    - TypeScript
     - HTML5
     - SASS &amp; CSS
     - Tailwind
     - Bootstrap
     - Laravel
     - Symfony
-    - API development, testing and usage
     - Jekyll <small>(static site generator)</small>
 
 - layout: item
   subtitle: Tools
   description: | # this will include new lines to allow paragraphs
-    - PHPUnit
-    - Docker
-    - Firebase
-    - AWS
     - Git <small>(incl. GitHub &amp; Bitbucket)</small>
+    - Docker
+    - AWS <small>(certified Associate Developer, Aug 2023)</small>
+    - JUnit
     - Postman
+    - PHPUnit
+    - Firebase
+    - Jira
     - Basecamp
-    - Wordpress
-    - Joomla
-    - Kentico
+    - Online CMS's <small>(Wordpress, Joomla, Kentico)</small>

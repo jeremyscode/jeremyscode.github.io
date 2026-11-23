@@ -1,4 +1,22 @@
 - layout: left
+  emblem: images/rtx.jpg
+  company: Raytheon UK - NORSS
+  link: https://www.raytheon.co.uk/what-we-do/space/norsstrack
+  jobs:
+    - title: Senior Software Engineer
+      dates: May 2023 - current
+  quote: >
+    NORSSTrack is Raytheon UK’s advanced space domain awareness software, transforming complex orbital data into clear, actionable intelligence. Developed for both defence and civil missions, NORSSTrack maps the operational environment so that satellites can effectively evade fast-moving debris and neighbouring assets in orbit, helping users understand what’s happening and respond with confidence.
+  description: | # this will include new lines to allow paragraphs
+    - NORSSTrack is a complex set of microservices powered by AWS and built with Java 25 with Spring Boot, Liquibase (MySql), Docker and SonarQube.
+    - Daily work involves building and maintenance of; both asynchronous and synchronous tasks, scheduling queues, notification management, complex log management, security via roles, encrypted data transfer, building new microservices and using practices such as SOLID and TDD.
+    - Within AWS the system requires scalability and so the environment runs within an auto-scaling group. All infrastructure is built through Terraform.
+    - As a senior engineer I frequently lead SCRUM sprints, mentor junior developers and get involved in the decision making process.
+    - Within the wider company context I've enjoyed taking part in various employee resource groups
+    - In August 2023 I received my AWS Asociate Developer creditation
+    - Security clearance (SC) is required for this job.
+
+- layout: left
   emblem: images/churchsuite.png
   company: ChurchSuite Ltd
   link: https://churchsuite.com
@@ -12,10 +30,8 @@
   description: | # this will include new lines to allow paragraphs
     - Throughout my 8 years at the company I was solely responsible for the maintenance and development of the Android and iOS apps, which included an integration with Brother label printers
     - One day a week was spent supporting the customer support team with queries and bug fixes, as well as monitoring our logs on New Relic and being responsible for production deployments
-    - Went from a KANBAN type of agile development, possible due to the company size at the time, to the Basecamp Shape Up methodology for cyclic development
     - Lead developer a large number of major projects such as; rebuilding the mobile apps and the foundations of a bookings modules, unlimited dynamic custom fields for models, smart tags which collate models such as people based on certain criteria, and many more
     - Regularly experimented with new ideas, including a serverless Laravel based system for embedding content in websites
-    - Developed the PHPUnit test suites, taking them few major iterations in order to improve performance and coverage of the tests
     - Rewrote the routing and authentication logic for the entire system within a 6 week cycle in order to; make the product more secure, remove extra points of entry and increase performance
 
 - layout: left
