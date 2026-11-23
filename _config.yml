@@ -8,51 +8,17 @@ version: 1
 # Personal info
 name: Jeremy Paul
 pronouns: they/them
-title: Senior Developer
-# email: your_email@gmail.com
-# email_title: Email (Email title override)
-# phone: 07123 123 123
-# phone_title: Phone (Phone title override)
-# website: https://google.com
-# website_title: Web (Website title override)
-
+title: Senior Software Engineer
 # Dark Mode (true/false/never)
 darkmode: false
-
 # Social links
-twitter_username: otterlyjeremy
-github_username:  jeremyjcpaul
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: otterlyjeremy
+github_username:  jeremyscode
 linkedin_username: jeremy-codes
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
-
-# Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | # new lines to allow paragraphs
   A passionate software developer with a particular flair for back-end development refactoring old/legacy systems and writing unit/integration tests. With over 10 years of industry experience I am always aware of new and upcoming ways to improve our coding practices, no code is perfect and documentation can always be improved.
 
   I strongly believe in a team based work ethic, whereby any idea is worth hearing and responsibility should never rest on one person alone. When it comes to project management I have found that the [Shape Up methodology by Basecamp](https://basecamp.com/shapeup){:target="_blank"} is; the most innovative, prevents burn-out and increases project excitement in the team. An advocate for equality in the workplace for all and keen to develop new connections.
@@ -61,11 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-# theme: modern-resume-theme
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+references_title: References on request
 
 sass:
   sass_dir: _sass
