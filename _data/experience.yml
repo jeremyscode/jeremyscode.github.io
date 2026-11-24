@@ -8,14 +8,13 @@
   quote: >
     NORSSTrack is Raytheon UK's advanced space domain awareness software, transforming complex orbital data into clear, actionable intelligence. Developed for both defence and civil missions, NORSSTrack maps the operational environment so that satellites can effectively evade fast-moving debris and neighbouring assets in orbit, helping users understand what's happening and respond with confidence.
   description: | # this will include new lines to allow paragraphs
-    - Worked on a Dockerised system of microservices, powered by AWS and built with Java 25, Spring Boot and Liquibase (MySQL).
-    - Experience building a large array of tools with asynchronous and synchronous services, scheduling queues, notification workflows, role-based security and encrypted data transfer.
+    - Worked on a Dockerised suite of microservices, powered by AWS and built with Java 25, Spring Boot and Liquibase (MySQL).
+    - Experience building asynchronous and synchronous services, scheduling queues, notification workflows, role-based security and encrypted data transfer.
     - Created infrastructure as code with Terraform which included auto-scaling groups, load balancers and launch templates.
     - Led Scrum sprints, mentored junior engineers and contributed to the technical decision making process.
-    - Applied SOLID principles and test-driven development, with JUnit and SonarQube static code analysis, to deliver maintainable, high-quality software.
-    - Active contributor to employee resource groups.
+    - Applied SOLID principles and test-driven development to deliver maintainable, high-quality software that's easy to extend.
     - Earned AWS Certified Developer - Associate in August 2023.
-    - Hold active UK Security Check (SC) clearance.
+    - Active contributor to employee resource groups. Hold active UK Security Check (SC) clearance.
 
 - layout: left
   emblem: images/churchsuite.png
@@ -29,9 +28,8 @@
   quote: >
     ChurchSuite is a Church focused management system, providing tools for leaders and members to organise their congregations with; events, bookings, giving with or without GiftAid, service planning, address book and children modules for the membership, small groups and rotas.
   description: | # this will include new lines to allow paragraphs
-    - Owned the development of the Android &amp; iOS apps which included an integration with Brother label printers.
     - Supported customer-facing teams whilst monitoring back-end systems and managing production deployments.
-    - Led major projects including; rebuilding the mobile apps, building new modules, and implementing smart features for dynamic data storage and search.
+    - Managed major projects including; development of the Android &amp; iOS apps, building new modules, and implementing smart features for dynamic data management and search.
     - Prototyped innovative solutions, including a serverless Laravel approach for embedding content into customer websites.
     - Rebuilt routing and authentication for the whole system within six weeks, reducing entry points and improving both security and performance.
 

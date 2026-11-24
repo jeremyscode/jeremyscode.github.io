@@ -1,15 +1,14 @@
 - layout: item
   subtitle: Languages
   description: | # this will include new lines to allow paragraphs
-    From most to least proficient:
     - Java w/ Spring &amp; Spring Boot
     - MySQL/SQL
     - Bash/Zsh
+    - Terraform
     - Android Java &amp; Kotlin
     - PHP 8+
-    - Terraform
     - Python
-    - Swift
+    - iOS with Swift
     - ASP .NET
     - C#
     - C/C++
@@ -22,7 +21,6 @@
     - TypeScript
     - HTML5
     - SASS &amp; CSS
-    - Tailwind
     - Bootstrap
     - Laravel
     - Symfony
