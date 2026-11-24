@@ -6,15 +6,16 @@
     - title: Senior Software Engineer
       dates: May 2023 - current
   quote: >
-    NORSSTrack is Raytheon UK’s advanced space domain awareness software, transforming complex orbital data into clear, actionable intelligence. Developed for both defence and civil missions, NORSSTrack maps the operational environment so that satellites can effectively evade fast-moving debris and neighbouring assets in orbit, helping users understand what’s happening and respond with confidence.
+    NORSSTrack is Raytheon UK's advanced space domain awareness software, transforming complex orbital data into clear, actionable intelligence. Developed for both defence and civil missions, NORSSTrack maps the operational environment so that satellites can effectively evade fast-moving debris and neighbouring assets in orbit, helping users understand what's happening and respond with confidence.
   description: | # this will include new lines to allow paragraphs
-    - NORSSTrack is a complex set of microservices powered by AWS and built with Java 25 with Spring Boot, Liquibase (MySql), Docker and SonarQube.
-    - Daily work involves building and maintenance of; both asynchronous and synchronous tasks, scheduling queues, notification management, complex log management, security via roles, encrypted data transfer, building new microservices and using practices such as SOLID and TDD.
-    - Within AWS the system requires scalability and so the environment runs within an auto-scaling group. All infrastructure is built through Terraform.
-    - As a senior engineer I frequently lead SCRUM sprints, mentor junior developers and get involved in the decision making process.
-    - Within the wider company context I've enjoyed taking part in various employee resource groups
-    - In August 2023 I received my AWS Asociate Developer creditation
-    - Security clearance (SC) is required for this job.
+    - Worked on a Dockerised system of microservices, powered by AWS and built with Java 25, Spring Boot and Liquibase (MySQL).
+    - Experience building a large array of tools with asynchronous and synchronous services, scheduling queues, notification workflows, role-based security and encrypted data transfer.
+    - Created infrastructure as code with Terraform which included auto-scaling groups, load balancers and launch templates.
+    - Led Scrum sprints, mentored junior engineers and contributed to the technical decision making process.
+    - Applied SOLID principles and test-driven development, with JUnit and SonarQube static code analysis, to deliver maintainable, high-quality software.
+    - Active contributor to employee resource groups.
+    - Earned AWS Certified Developer - Associate in August 2023.
+    - Hold active UK Security Check (SC) clearance.
 
 - layout: left
   emblem: images/churchsuite.png
@@ -28,11 +29,11 @@
   quote: >
     ChurchSuite is a Church focused management system, providing tools for leaders and members to organise their congregations with; events, bookings, giving with or without GiftAid, service planning, address book and children modules for the membership, small groups and rotas.
   description: | # this will include new lines to allow paragraphs
-    - Throughout my 8 years at the company I was solely responsible for the maintenance and development of the Android and iOS apps, which included an integration with Brother label printers
-    - One day a week was spent supporting the customer support team with queries and bug fixes, as well as monitoring our logs on New Relic and being responsible for production deployments
-    - Lead developer a large number of major projects such as; rebuilding the mobile apps and the foundations of a bookings modules, unlimited dynamic custom fields for models, smart tags which collate models such as people based on certain criteria, and many more
-    - Regularly experimented with new ideas, including a serverless Laravel based system for embedding content in websites
-    - Rewrote the routing and authentication logic for the entire system within a 6 week cycle in order to; make the product more secure, remove extra points of entry and increase performance
+    - Owned the development of the Android &amp; iOS apps which included an integration with Brother label printers.
+    - Supported customer-facing teams whilst monitoring back-end systems and managing production deployments.
+    - Led major projects including; rebuilding the mobile apps, building new modules, and implementing smart features for dynamic data storage and search.
+    - Prototyped innovative solutions, including a serverless Laravel approach for embedding content into customer websites.
+    - Rebuilt routing and authentication for the whole system within six weeks, reducing entry points and improving both security and performance.
 
 - layout: left
   emblem: images/distinction.jpg
@@ -43,10 +44,10 @@
   quote: >
     Multi award winning, innovative digital design company. They concentrate on creating and maintaining web sites and applications with an excellent user experience and top quality design.
   description: | # this will include new lines to allow paragraphs
-    - Worked with a .NET content management system called Kentico
-    - A lead developer in the development and maintenance of a variety of different client websites
-    - Liaised with clients on occasion in order to find them the best possible solution
-    - Attended the Kentico conference in London on a few occasions, to learn about upcoming changes and for networking
+    - Developed and maintained a diverse portfolio of client websites using Kentico, a .NET content management system.
+    - Took a lead development role across projects; balancing technical quality, user experience and design requirements.
+    - Worked directly with clients to understand thier business needs and create practical, high-quality solutions.
+    - Attended the Kentico conference in London on a few occasions to learn of upcoming changes as well as network with others.
 
 - layout: left
   emblem: images/bygsystems.jpg
@@ -57,20 +58,20 @@
   quote: >
     One of the top e-learning providers in the UK, developing bespoke applications and systems for e-learning to some of the top names in industry.
   description: | # this will include new lines to allow paragraphs
-    - Lead programmer on a number of projects, including the rebrand and redevelopment of BYG's website
-    - Development of SCORM 1.2 compliant E-Learning courses for a wide range of large companies
-    - Worked on a bespoke system used by technicians whilst out on a job
-    - Liaised with quality assurance and design teams to ensure that each project was ready for release on time
+    - Led the development of multiple bespoke projects, including the rebranding and redevelopment of BYG Systems' website.
+    - Built SCORM 1.2 compliant e-learning courses for a wide range of large organisations.
+    - Developed a bespoke system that helped technicians access and complete their work whilst on the job.
+    - Collaborated with design and quality assurance teams to deliver reliable, on-time releases.
 
 - layout: left
   emblem: images/experian.jpg
   company: Experian Plc
-  job_title: Business Anyalyst Intern
+  job_title: Business Analyst Intern
   dates: August - September 2011
   link: https://www.experianplc.com/
   quote: >
     A well known multinational data analytics and consumer credit reporting company.
   description: | # this will include new lines to allow paragraphs
-    - Shadowed a business analyst manager and worked on my own project to find and capture legacy reports for a future migration
-    - Liaised with a variety of senior managers across the business to ensure that the right legacy data was being captured
-    - Got to know how different parts of the business worked as a taster for life working with Experian
+    - Shadowed senior business analysts and worked on a solo project to identify legacy reports for a future migration.
+    - Worked with senior managers across the business to capture, validate and document the required legacy data.
+    - Built a broad understanding of Experian's operations while gaining practical experience in stakeholder engagement and business analysis.
